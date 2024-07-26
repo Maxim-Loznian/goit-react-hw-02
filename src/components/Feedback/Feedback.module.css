@@ -1,0 +1,23 @@
+/* src/components/Feedback/Feedback.module.css */
+.feedback {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.item {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
